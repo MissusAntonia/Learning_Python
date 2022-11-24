@@ -1,0 +1,249 @@
+#EXTM3U
+#EXTINF:0,Eleven Sports 1 [BE]
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=bob
+file:///C:/Users/Sulyman%20Mouktar/Desktop/collected_torrent_files/f7962bc5ac4652fd3a14b62ab39e1bc8595dc911.torrent
+#EXTINF:0,Sky Sports Football [UK]
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=bob
+file:///C:/Users/Sulyman%20Mouktar/Desktop/collected_torrent_files/45702f4e1a57bc98ae86b5813248b626888eb842.torrent
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=bob
+file:///C:/Users/Sulyman%20Mouktar/Desktop/collected_torrent_files/286a961ad3c83c76d561f61de8dfd1b4dcb2fea4.torrent
+#EXTINF:0,Eleven Sports 2 [BE]
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=bob
+file:///C:/Users/Sulyman%20Mouktar/Desktop/collected_torrent_files/6cd2b5ea846d5201aa6dd9d9ee8a1381bf7e6f08.torrent
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=bob
+file:///C:/Users/Sulyman%20Mouktar/Desktop/collected_torrent_files/8857b23ca2fd4364439a2083f3fb950c8824d92b.torrent
+#EXTINF:0,Eleven Sports 1 4k [PL]
+acestream://7ac2d74ef6df9d15012992d7e0e635a95f58c652/
+#EXTINF:0,Eleven Sports 1 HD [PL]
+acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00/
+#EXTINF:0,Eleven Sports 1 [BE]
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=bob
+acestream://36cad67fed5a739757a9db844a551aa845a8d51b/
+#EXTINF:0,Eleven Sports 2 HD [PL]
+acestream://54a4a28882d3cae1ca19de5d4b022ebea40351f9/
+#EXTINF:0,Eleven Sports 2 [BE]
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=bob
+acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce/
+#EXTINF:0,Eleven Sports 3 HD [PL]
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=bob
+acestream://b146ee4b6e16c9df58e27bd02ffd6cea840ff212/
+#EXTINF:0,Eleven Sports 3 [BE]
+acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e/
+#EXTINF:0,Eleven Sports 4 HD [PL]
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=bob
+acestream://458a0ddd7d193f6d2750cd14d03a47f47a808e09/
+#EXTINF:0,Eleven Sports 4 [BE]
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=bob
+acestream://0f32c0131a2d9444996410801f4e18b04384db98/
+#EXTINF:0,Eleven Sports 5 [BE]
+acestream://4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a/
+#EXTINF:0,Eleven Sports 6 [BE]
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=bob
+acestream://50b6d2b5fd59fefb9f4fd2176994d418f2b94a80/
+#EXTINF:0,Sky Sport 1 HD [DE]
+acestream://7c12288663069a12aff58f3f62e8ea47ab78c65d/
+#EXTINF:0,Sky Sport 2 HD [DE]
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=bob
+acestream://fc9f1f580da8f641a5991d44b399982a3a069f69/
+#EXTINF:0,Sky Sport News [DE]
+acestream://07cab7f4a1a4ecc0ed35bea52346f1b79b1016a8/
+#EXTINF:0,Sky Sport F1 [DE]
+acestream://b04372b9543d763bd2dbd2a1842d9723fd080076/
+#EXTINF:0,Sky Sport UHD [DE]
+acestream://96f3385d7bd5420ffad7d54ecae5cab2b9da25c3/
+#EXTINF:0,Sky Sports Arena [UK]
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=bob
+acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c/
+#EXTINF:0,Sky Sports Football [UK]
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=bob
+acestream://8dbe2d515e9131fa311353537736f8c94be9b26d/
+#EXTINF:0,Sky Sports Main Event [UK]
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=bob
+acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e/
+#EXTINF:0,Sky Sports News
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=bob
+acestream://41843da5359ec96ab4805f5e8c6f7bfa68be0fd5/
+#EXTINF:0,Sky 1 [DE]
+acestream://88c50cf8bf78a18d89c9efb3805d5a12e04c31b9/
+#EXTINF:0,Sky Main - Daddylive.live - Daily AceStream on www.Daddylive.EU
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=bob
+acestream://274d2775d51db60cb00b173e5faf65a8024e784e/
+#EXTINF:0,Match Football 1 FHD (Telegram: @MyAceTV)
+acestream://c081a7eabe6eea6112624b1f7d5abd18de2bf247/
+#EXTINF:0,Match Football 3 FHD (Telegram: @MyAceTV)
+acestream://541188d4c73b20e7779f226910499b3803ee6875/
+#EXTINF:0,Match Premier FHD (Telegram: @MyAceTV)
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=bob
+acestream://1f2a653c427edfc7c9d3db31cfe92f3a243a2326/
+#EXTINF:0,Match TV FHD (Telegram: @MyAceTV)
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=bob
+acestream://cd26e6f9a3ba26143a8f30ac9709913a9d2d4235/
+#EXTINF:0,BeIN Sports 1 [BE]
+acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0/
+#EXTINF:0,BeIN Sports 2 [BE]
+acestream://edb507e38394d614c9ff55805c9d354ae13210bc/
+#EXTINF:0,BeIN Sports 3 [BE]
+acestream://731bd3336ec0986ff9100efe40dbaf1473a22cf8/
+#EXTINF:0,Bein Sports Xtra R_
+acestream://b5c017e94b72013902c02f6d145c77f753bc3e12/
+#EXTINF:0,BeinSportsXtra ñ R_
+acestream://92a7dcc55392efc6dd5d012c4ff3878891eb6a6e/
+#EXTINF:0,beIN SPORTS HABER [TR]
+acestream://47c1b3a68d03bd190fed521d144ad08fa0f195f3/
+#EXTINF:0,beIN SPORTS HD 2 [TR]
+acestream://48bee10b883f17c7186d60f1e8022dca0ba41a05/
+#EXTINF:0,beIN SPORTS HD 1 [TR]
+acestream://118416583faa3fb4f03800173429b6b844b43a52/
+#EXTINF:0,beIN SPORTS HD 3 [TR]
+acestream://ed81c333815247536edfcdb2755147e8c4144d62/
+#EXTINF:0,beIN SPORTS HD 4 [TR]
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=bob
+acestream://7683cd0cbacf55fa8b39c363219ffba1bc47cf9d/
+#EXTINF:0,SporTTV1 - Daddylive.live - Daily AceStream on www.Daddylive.EU
+acestream://e94344ef557bc1f50a6591aa2b17638cb8cf44d4/
+#EXTINF:0,Arena Sport 1 HD
+acestream://96273804aa8583e9368e744a456f99da6d069e8a/
+#EXTINF:0,aren2
+acestream://10b54721a8bb1fa43580372937c1f5b014cfcc4d/
+#EXTINF:0,Canal+ Sport [PL]
+acestream://cc7b8c39f70aa342248d02c8ab55bafdb4116ed7/
+#EXTINF:0,CANAL+ 1 [PL]
+acestream://9def614ad2e9dab30a710ecb6868b4ed3746ca4e/
+#EXTINF:0,Setanta Sports 1 FHD (Telegram: @MyAceTV)
+acestream://c297b6d128364c72eb0b53115b9e2cd03011cb1a/
+#EXTINF:0,Setanta Sports 2 FHD (Telegram: @MyAceTV)
+acestream://629b9b0aeb8116056c7fa441a68bd02b05b43490/
+#EXTINF:0,Setanta Sports Plus UA FHD (Telegram: @MyAceTV)
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=bob
+acestream://6717b41d6715758055ed49d28594b99588fa0698/
+#EXTINF:0,Setanta Sports UA FHD (Telegram: @MyAceTV)
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=bob
+acestream://086d85dc6d030434c3ebaa5d45c0887310fd14a7/
+#EXTINF:0,Eurosport 1 HD [DE]
+acestream://b8cad4710b1c3b2b84a82c1ece40c08517b8f766/
+#EXTINF:0,Eurosport 2 HD [DE]
+acestream://ac675c82d6dfd4a201532c18b42e48dacb7c32c6/
+#EXTINF:0,Eurosport360 HD 2 [DE]
+acestream://57f95543ac41656d473b1a27123fc413388a728c/
+#EXTINF:0,ESPN 2 [BE]
+acestream://3e0ba6867173f345d482d80c771f1a5dc3b37e63/
+#EXTINF:0,ESPN 3 [BE]
+acestream://a97cafedefe189d63e52eadc5c9bbc351b01540a/
+#EXTINF:0,ESPN 4 [BE]
+acestream://5f9b19c57195cc28ab81e0ec8cad03b55118687a/
+#EXTINF:0,ESPN HD [US]
+acestream://4b4907de51ec11087d4bed5876f2a0c68264f442/
+#EXTINF:0,ESPN [BE]
+acestream://79f10c6c6168e42bfc606f3f7b9e5f3ca79dedab/
+#EXTINF:0,ESPN2 [US]
+acestream://664eb5fe460b96941aed633959a845b185cd8394/
+#EXTINF:0,BT Sport / ESPN [UK]
+acestream://fc5089d8e1519872fdf951779ccbca913acc9bce/
+#EXTINF:0,BT SPORT 1
+acestream://b81cea9e918e1f99d213dda75105bcda529df3ff/
+#EXTINF:0,BT Sport 2 [UK]
+acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801/
+#EXTINF:0,BT Sport 3 [UK]
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=bob
+acestream://5f966c123759de46dff29c379266b7a403452033/
+#EXTINF:0,CSat TV
+acestream://9bd1a0ff08d3a99ff2b236edea55194d589f2ea1/
+#EXTINF:0,Campus TV
+acestream://ce253eec05671bbd84cd6531bad888d3dd86113f/
+#EXTINF:0,Imam Hussein TV 2 Arabic
+acestream://83c48d4a19393fbf1d8fc407a07912e6ae8dc522/
+#EXTINF:0,Imam Hussein TV 3 English
+acestream://abe32b075a1f6986e7b8d107527eded771ffb4cb/
+#EXTINF:0,TNT Sport3 Brazin
+acestream://8712cfc609c5a2fbaee0855149b0766360517cab/
+#EXTINF:0,TNT Sport4 Brazin
+acestream://7a08ff6fc9a60ec14021b6f0005ca3cc0b11617e/
+#EXTINF:0,TNT Sport5 Brazin
+acestream://446e8d2d35c577c98083dad23004c29484377b16/
+#EXTINF:0,MBC 3
+acestream://ea5ab9e155f5b66b1c7dabccae50a9effb411649/
+#EXTINF:0,MBC Masr 2
+acestream://24021534d8417f41dd8c06bf0de3a3df2500956e/
+#EXTINF:0,Iqraa
+acestream://8f5cfa95df83f80162692309c25121ac2707dd78/
+#EXTINF:0,Al Istiqama TV
+acestream://d47b0304f62b2c6fd39a8be302e3d4918fc7de26/
+#EXTINF:0,Iqraa Europe Africa
+acestream://079f969127621b7671011080ecd22962418496a5/
+#EXTINF:0,Cartoon network
+acestream://8548b21636bf86359f426252278b7ec738eb4295/
+#EXTINF:0,Cartoon Network [RU]
+acestream://6578fed493fdf327038e74d9d967888d3dbb9c2d/
+#EXTINF:0,Spacetoon
+acestream://682a4f8dd29562348f18fc8b5740e95f59470d13/
+#EXTINF:0,Disney [RU]
+acestream://a257179a41c0f69411ed7fe86260fe7cc5c823f3/
+#EXTINF:0,Al Arabiya
+acestream://123edb02941e6cf5ea00caf19a4caed99d68a6db/
+#EXTINF:0,Al Jazeera
+acestream://2c7ce1e0e22703a58bb8e97cd39067687e909e14/
+#EXTINF:0,Al Maghribia
+acestream://24cb533ac6acb5f39a2d87158fd9265d0d61bfae/
+#EXTINF:0,Bloomberg TV Australia
+acestream://d049ac7b54e2a673683d2be7aa5bb98311b0f0b0/
+#EXTINF:0,Canal+ Sport 2 HD [PL]
+acestream://6390b1ab967a25777ea2dde1d41b7400cc0601d3/
+#EXTINF:0,National Geographic Abu Dhabi
+acestream://21012acacb9fd306823fea18c1f356b195e73252/
+#EXTINF:0,Palestine Satellite Channel
+acestream://e2eca51099dd17c4cee7af2e9cee76919def3f3e/
+acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04/
+#EXTINF:0,ALB UK TV (Opt-1)
+acestream://be3efb28e25b4112cbe312670fce41e5f048b601/
+#EXTINF:0,münchen.tv
+acestream://2fccad0d8be550ad061405c3a11d11524576a31f/
+#EXTINF:0,C33 Madrid HD (España)
+acestream://908766dee6219bd358cecfc8abcd4663f9d5598b/
+#EXTINF:0,AMAZON PRIME VIDEO 1 HD [BE]
+acestream://5323ccadb659f7d3cb5fa2e5835c5af362e144d6/
+#EXTINF:0,AMAZON PRIME VIDEO 3 HD [BE]
+acestream://7b979c38e2565ea0ce4c6ec3c13f6edf05b0c08c/
+#EXTINF:0,AMAZON PRIME VIDEO 2 HD [BE]
+acestream://2926e34c63d83764f9c6671da53397d55041b4ea/
+#EXTINF:0,AMAZON PRIME VIDEO 4 HD [BE]
+acestream://77697d1e2f382196dd156ed384e84c62fc7d32f7/
+#EXTINF:0,Sky Cinema Family [DE]
+acestream://e0fa0d9e3345ba8e88758b53bb6d6cdc157e073d/
+#EXTINF:0,Alkarma TV Youth & English
+acestream://7320961cfe5ceea3dc66cfe790c79149b8e29aac/
+acestream://c1092dcc92ec5428a9854622d6081563c6322262/
+#EXTINF:0,ITV ONE
+acestream://f4a6b1f6f4b72343ff86608597b3b7ca14673c7a/
+#EXTINF:0,Peace TV
+acestream://1901e2a21754fe0bad1da0cc385429ba4035df8c/
+#EXTINF:0,TV RI HD
+acestream://cc7a0882a2df663f2e5589c24eb99b9321bfa450/
+#EXTINF:0,
+acestream://69bbd9aba98bb331de36f3f00c292a82b0eac665/
+#EXTINF:0,Leominster TV Educational
+acestream://701ae8ddd744600eab8f3ae0688d809cf6bde777/
+#EXTINF:0,pimpletv.ru
+acestream://11b6aa16e978a409504b9e3e9c3b29c56f392bdf/
